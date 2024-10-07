@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B"/>
+      <stop offset="100%" style="stop-color:#FFE66D"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ECDC4"/>
+      <stop offset="100%" style="stop-color:#45B7D1"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#gradient1)" d="M250 450c110.457 0 200-89.543 200-200S360.457 50 250 50 50 139.543 50 250s89.543 200 200 200zm0-50c-82.843 0-150-67.157-150-150s67.157-150 150-150 150 67.157 150 150-67.157 150-150 150z"/>
+    <path fill="url(#gradient2)" d="M250 350c55.228 0 100-44.772 100-100s-44.772-100-100-100-100 44.772-100 100 44.772 100 100 100zm0-50c-27.614 0-50-22.386-50-50s22.386-50 50-50 50 22.386 50 50-22.386 50-50 50z"/>
+    <circle cx="250" cy="250" r="25" fill="#FF6B6B"/>
+  </g>
+</svg>
